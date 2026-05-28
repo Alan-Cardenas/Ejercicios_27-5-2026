@@ -11,6 +11,7 @@ Algoritmo AyudaEconomica
 	leer promedio 
 	Escribir "¿El estudiante es de bajos recursos (verdadero/falso)?"
 	leer recursos 
+	//El programa puede leer directamente si es verdadero o falso, con solo escribirlo de manera textual
 	si promedio >= 90 o promedio >= 70 y recursos Entonces
 		Escribir "Felicidades, tienes derecho a una beca" 
 	SiNo
